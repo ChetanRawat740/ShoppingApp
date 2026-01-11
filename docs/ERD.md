@@ -1,7 +1,7 @@
 # Entity Relationship Diagram (ERD)
 
 ## Overview
-This ERD represents the main entities in the e-commerce Android app based on the database.json structure.
+This ERD represents the main entities in the ShoppingApp based on the database.json structure.
 
 ## Entities
 
