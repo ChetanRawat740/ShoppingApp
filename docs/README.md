@@ -1,6 +1,6 @@
 # Architecture Documentation
 
-This directory contains the architecture documentation for the e-commerce Android app (project176-main).
+This directory contains the architecture documentation for the Shopping App
 
 ## Documents Included
 
