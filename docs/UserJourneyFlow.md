@@ -1,7 +1,7 @@
 # User Journey and Flow Diagrams
 
 ## Overview
-This document outlines the user journey and flow diagrams for the e-commerce Android app, focusing on the shopping experience from app launch to purchase completion.
+This document outlines the user journey and flow diagrams for the ShoppingApp, focusing on the shopping experience from app launch to purchase completion.
 
 ## Main User Journeys
 
